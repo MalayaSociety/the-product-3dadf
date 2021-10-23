@@ -69,8 +69,9 @@ sections:
         image_position: top
       - title: Smart Notifications
         title_align: left
-        content: |
-          Get color-coded notifications for easy viewing at a glance. 
+        content: >
+          Get color-coded notifications for easy viewing at a glance, compete
+          with your friends progress!
         content_align: left
         actions:
           - label: Learn More
