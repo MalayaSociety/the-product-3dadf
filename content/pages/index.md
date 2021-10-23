@@ -124,7 +124,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/app.png
-        image_alt: Feature 2 placeholder image
+        image_alt: Ivermectin Engineein
         media_position: right
         media_width: fifty
     feature_padding_vert: large
