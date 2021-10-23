@@ -1,5 +1,5 @@
 ---
-title: IVM-Product
+title: Buy the Ivermectin Engineering Buttplug soon!
 sections:
   - type: hero_section
     title: The Ivermectin Buttplug
