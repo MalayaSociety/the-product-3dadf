@@ -107,7 +107,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: /images/safe.png
-        image_alt: Feature 1 placeholder image
+        image_alt: Keeping you safe*
         media_position: left
         media_width: fifty
       - title: The most powerful buttplug
