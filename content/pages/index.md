@@ -8,7 +8,7 @@ sections:
       buttplug technologies help you with safe orgasmic pleasures. Now with
       Apple Carplay support.
     actions:
-      - label: App Store
+      - label: App Store (Coming Soon)
         url: /pricing
         style: primary
       - label: Google Play
