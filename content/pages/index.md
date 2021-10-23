@@ -14,7 +14,7 @@ sections:
       - label: Google Play (Coming Soon)
         url: /pricing
         style: secondary
-    image_alt: Hero section placeholder image
+    image_alt: Ivermectin Engineering
     media_position: left
     media_width: fifty
     align: left
