@@ -138,7 +138,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: “A very useful and safe product. I use it every day.”
-        subtitle: 'Travis Guidelines, Manager at Company'
+        subtitle: 'Brennan, Queen''s Counsel'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
