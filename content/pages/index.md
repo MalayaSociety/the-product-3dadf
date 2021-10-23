@@ -131,9 +131,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+      - title: '“Fantastic app for planning your day, wish I thought of it!'
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
