@@ -149,8 +149,8 @@ sections:
   - type: cta_section
     title: Regain Control of your Buttplug
     content: >
-      Download our Ivermectin Buttplug soon and connect with all your calendars,
-      LinkedIn and contacts — it doesn't get easier than this!
+      Download our Ivermectin-Engineering app soon and connect with all your
+      calendars, LinkedIn and contacts — it doesn't get easier than this!
     actions:
       - label: App Store (Coming Soon)
         url: /pricing
