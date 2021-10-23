@@ -4,32 +4,31 @@ seo:
   title: About
   description: This is the about us page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about us page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/team.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about us page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/team.jpg
       relativeUrl: true
 layout: page
 ---
-
-We are a team of productivity nuts that love to get stuff done without the stress of time management. We work together to optimize workflows, understand use cases and set up our app to be the most productive and useful tool for us, internally, and for you.
+We are a team of productivity nuts that love to get stuff done without the stress of time management. In this time of pandemic, we wanted to create a reusable and sharable safe productivity toy that can help reduce stress whilst maintaining good workforce productivity. We're very proud of this new project and the technologies involved in creating an efficient and safe orgasm.
 
 ![Our team](/images/team.jpg)
 
