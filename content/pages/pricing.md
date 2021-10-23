@@ -103,10 +103,9 @@ sections:
           This may cure COVID, though we have not done the research for this
           specific product.
       - title: What if this doesn't give me the best pleasure?
-        content: |-
-          Once a task is complete, you will get a notification letting you know
-          that you have one less thing to worry about - no matter who completes
-          it!
+        content: >
+          We're very confident in our products, but if you are unhappy with
+          them, you can contact support with your concerns.
       - title: Which integrations do you have?
         content: >
           We work with all major productivity apps and professional platforms
