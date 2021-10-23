@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Thank You!
     subtitle: >-
-      Thank you for testing the App template. Have a great day!
+      Thank you for showing your interest. Please keep checking in for updates
+      on our new product. FDA & Medsafe NZ approval pending.
     actions:
       - label: Back to homepage
         url: /
