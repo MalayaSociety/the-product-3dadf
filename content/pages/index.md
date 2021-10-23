@@ -151,7 +151,7 @@ sections:
       Download our Ivermectin Buttplug soon and connect with all your calendars,
       LinkedIn and contacts — it doesn't get easier than this!
     actions:
-      - label: App Store
+      - label: App Store (Coming Soon)
         url: /pricing
         style: primary
       - label: Google Play
