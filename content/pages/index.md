@@ -186,7 +186,7 @@ seo:
       value: Buy the IVM-Buttplug soon!
       keyName: property
     - name: 'og:image'
-      value: images/post-1.jpg
+      value: /images/product2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
