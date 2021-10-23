@@ -45,7 +45,7 @@ sections:
           *   2 months free premium connectivity
           *   Includes support
           *   Unlimited devices can connect
-          *   Free spare Ivermectin 
+          *   Free spare Ivermectin cartridges
         content_align: left
         actions:
           - label: Start with Family
