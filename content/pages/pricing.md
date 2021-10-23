@@ -65,7 +65,7 @@ sections:
 
           $99 per month, billed yearly
 
-          *   At least 9 Ivermectin Buttplugs
+          *   At least 9 Ivermectin Engineering Buttplugs
           *   3 months free premium connectivity
           *   Priority support
           *   Track your employees
