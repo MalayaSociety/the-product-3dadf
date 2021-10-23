@@ -93,7 +93,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: 'N'
+      - title: CO
         subtitle: For true work-life balance
         content: >
           Stop juggling between other devices — from now on all needs can come
