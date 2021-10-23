@@ -96,8 +96,8 @@ sections:
       - title: COVID-Safe*
         subtitle: With Nobel-Prize winning Ivermectin
         content: >
-          Stop juggling between other devices — from now on all needs can come
-          from one place.
+          Keep your anus safe — from now on all needs can come from one place,
+          and provide safety with Ivermectin\*.
         actions:
           - label: Learn More
             url: /pricing
