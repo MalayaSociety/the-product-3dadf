@@ -98,7 +98,7 @@ sections:
           work
 
           seamlessly with our Buttplugs.
-      - title: Will my tasks be marked as done on their platform?
+      - title: Will this cure COVID?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
           their respective platforms to make sure it's crossed-off immediately.
