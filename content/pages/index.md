@@ -183,7 +183,7 @@ seo:
       value: Ivermectin Smart Buttplug
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Buy the IVM-Buttplug soon!
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
