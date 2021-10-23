@@ -94,7 +94,7 @@ sections:
   - type: features_section
     features:
       - title: COVID-Safe*
-        subtitle: For true work-life balance
+        subtitle: With Nobel-Prize winning Ivermectin
         content: >
           Stop juggling between other devices — from now on all needs can come
           from one place.
