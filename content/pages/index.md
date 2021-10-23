@@ -15,7 +15,6 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: /images/61a2knJ7lZL._AC_SL1500_.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
