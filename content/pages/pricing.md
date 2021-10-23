@@ -99,9 +99,9 @@ sections:
 
           seamlessly with our Buttplugs.
       - title: Will this cure COVID?
-        content: |-
-          As soon as you complete a task, App Land updates your task lists on
-          their respective platforms to make sure it's crossed-off immediately.
+        content: >
+          This may cure COVID, though we have not done the research for this
+          specific product.
       - title: What if someone else completes my task?
         content: |-
           Once a task is complete, you will get a notification letting you know
