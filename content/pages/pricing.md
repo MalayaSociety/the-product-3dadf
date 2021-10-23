@@ -108,8 +108,10 @@ sections:
           that you have one less thing to worry about - no matter who completes
           it!
       - title: Which integrations do you have?
-        content: |-
-          We work with all major productivity apps and platforms and support all
+        content: >
+          We work with all major productivity apps and professional platforms
+          and support all
+
           native iOS and Android apps.
       - title: What is your cancellation policy?
         content: |
