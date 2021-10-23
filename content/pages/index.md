@@ -196,7 +196,7 @@ seo:
     - name: 'twitter:description'
       value: Buy the IVM-Buttplug soon!
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/product2.png
       relativeUrl: true
 layout: advanced
 ---
