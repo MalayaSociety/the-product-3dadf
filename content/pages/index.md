@@ -194,7 +194,7 @@ seo:
     - name: 'twitter:title'
       value: Ivermectin Smart Buttplug
     - name: 'twitter:description'
-      value: The preview of the App theme
+      value: Buy the IVM-Buttplug soon!
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
