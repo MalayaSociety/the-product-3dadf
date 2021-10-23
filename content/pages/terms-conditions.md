@@ -21,12 +21,12 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-Yes.
+The terms and conditions of using our product.
 
 ## All The Terms
 
-Yes.
+We hold no responsibility for anything.
 
 ## All the Conditions
 
-Yes.
+And you agree to this.
