@@ -89,10 +89,9 @@ sections:
     title: FAQ
     grid_items:
       - title: Can I use multiple languages?
-        content: |-
-          App Land currently supports English, Spanish, German and French. Other
-          languages are on the roadmap and should be rolled out by the end of
-          the year.
+        content: |
+          Our app will support English, Spanish, German and French. Other
+          languages are on the roadmap and should be rolled out soon.
       - title: Do you support native iPhone apps?
         content: |-
           Absolutely. Both native iOS and Android apps are supported and work
