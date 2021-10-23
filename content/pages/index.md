@@ -141,7 +141,7 @@ sections:
       - title: “A very useful and safe product. I use it every day.”
         subtitle: 'Brennan, Queen''s Counsel'
         image: images/person-2.png
-        image_alt: Person 2 photo
+        image_alt: 'Brennan '
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
