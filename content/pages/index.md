@@ -30,9 +30,9 @@ sections:
     grid_items:
       - title: Right When You Need It
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Using nano-technologies, we are able to ensure maximum pleasure, at
+          all times.
         content_align: left
         actions:
           - label: Learn More
