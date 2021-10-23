@@ -174,7 +174,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Ivermectin Buttplug
-  description: The preview of the App theme
+  description: Official webpage of the IVM-Buttplug.
   extra:
     - name: 'og:type'
       value: website
