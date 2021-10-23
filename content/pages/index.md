@@ -180,7 +180,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ivermectin Smart Buttplug
+      value: Ivermectin Engineering
       keyName: property
     - name: 'og:description'
       value: Buy the IVM-Buttplug soon!
