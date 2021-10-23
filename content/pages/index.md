@@ -132,7 +132,7 @@ sections:
   - type: features_section
     features:
       - title: '“Fantastic app for planning your day, wish I thought of it!'
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: 'Elizabeth, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
