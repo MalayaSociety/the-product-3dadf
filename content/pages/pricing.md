@@ -34,18 +34,18 @@ sections:
       - title: Family
         subtitle: For you and your family members
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### $499
 
-          per month, billed yearly
+          $19 per month, billed yearly
 
-          * Shared calendar integrations
-          * Unlimited task lists
-          * Synchronized reminders
-          * Shared badgets
-          * Up to 5 devices
+          *   4 Ivermectin Buttplugs
+          *   2 months free premium connectivity
+          *   Includes support
+          *   Shared badgets
+          *   Up to 5 devices
         content_align: left
         actions:
           - label: Start with Family
