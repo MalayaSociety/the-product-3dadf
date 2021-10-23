@@ -95,9 +95,9 @@ sections:
     features:
       - title: Comes in one size
         subtitle: For true work-life balance
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Stop juggling between other devices — from now on all needs can come
+          from one place.
         actions:
           - label: Learn More
             url: /pricing
