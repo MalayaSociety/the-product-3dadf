@@ -59,15 +59,15 @@ sections:
         content: |
           ***
 
-          ### $999
+          ### $999 (starting)
 
-          per month, billed yearly
+          $99 per month, billed yearly
 
           *   Unlimited calendars
           *   Unlimited task list integrations
-          *   Project-based color coding
-          *   Scheduled notifications
-          *   Task delegation
+          *   Priority support
+          *   Track your employees
+          *   Wholesale Ivermectin refills
         content_align: left
         actions:
           - label: Start with Business
