@@ -7,15 +7,6 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: >
-      ###### Gently place your Ivermectin Engineering product up your anus.
-
-
-      ###### Use until orgasm.
-
-
-      ###### If the Ivermectin is not discharged on orgasm, keep using it until
-      it does.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
