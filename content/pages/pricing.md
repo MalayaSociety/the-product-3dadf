@@ -63,8 +63,8 @@ sections:
 
           $99 per month, billed yearly
 
-          *   Unlimited calendars
-          *   Unlimited task list integrations
+          *   At least 9 Ivermectin Buttplugs
+          *   3 months free premium connectivity
           *   Priority support
           *   Track your employees
           *   Wholesale Ivermectin refills
