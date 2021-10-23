@@ -49,9 +49,9 @@ sections:
         image_position: top
       - title: On Any Device
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          The Ivermectin Buttplug synchonises across Android and iOS phones, and
+          on your computer, tablet, or car (Apple Carplay, for real play).
         content_align: left
         actions:
           - label: Learn More
