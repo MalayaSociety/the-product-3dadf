@@ -135,7 +135,7 @@ sections:
       - title: '“Fantastic app for planning your day, wish I thought of it!'
         subtitle: 'Elizabeth, Nurse'
         image: images/person-1.png
-        image_alt: Person 1 photo
+        image_alt: Queen Elizabeth
         media_position: right
         media_width: thirty-three
       - title: “A very useful and safe product. I use it every day.”
