@@ -183,7 +183,7 @@ seo:
       value: Ivermectin Engineering
       keyName: property
     - name: 'og:description'
-      value: Buy the IVM-Buttplug soon!
+      value: Buy the Ivermectin Engineering Buttplug soon!
       keyName: property
     - name: 'og:image'
       value: /images/product2.png
