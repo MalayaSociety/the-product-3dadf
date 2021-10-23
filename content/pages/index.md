@@ -24,7 +24,7 @@ sections:
     image: /images/product.png
     subtitle: Pleasure with protection.
   - type: grid_section
-    title: What's Great About App Land?
+    title: What's Great About Ivermectin?
     subtitle: In a Glance
     align: center
     grid_items:
