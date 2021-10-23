@@ -51,8 +51,8 @@ sections:
       - title: On Any Device
         title_align: left
         content: >
-          The Ivermectin Buttplug synchonises across Android and iOS phones, and
-          on your computer, tablet, or even your car!
+          The Ivermectin Engineering Buttplug synchonises across Android and iOS
+          phones, and on your computer, tablet, or even your car!
         content_align: left
         actions:
           - label: Learn More
