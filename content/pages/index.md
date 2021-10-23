@@ -22,6 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     image: /images/product.png
+    subtitle: Pleasure with protection.
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
