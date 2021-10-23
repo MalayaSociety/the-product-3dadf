@@ -112,9 +112,8 @@ sections:
           We work with all major productivity apps and platforms and support all
           native iOS and Android apps.
       - title: What is your cancellation policy?
-        content: |-
-          You can cancel anytime and your tasks and calendars will remain
-          unaffected.
+        content: |
+          You can cancel anytime and use our product offline.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
