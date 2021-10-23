@@ -147,9 +147,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Regain Control of your Buttplug
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: >
+      Download our Ivermectin Buttplug soon and connect with all your calendars,
+      LinkedIn and contacts — it doesn't get easier than this!
     actions:
       - label: App Store
         url: /pricing
