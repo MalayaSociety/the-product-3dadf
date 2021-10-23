@@ -44,8 +44,8 @@ sections:
           *   4 Ivermectin Buttplugs
           *   2 months free premium connectivity
           *   Includes support
-          *   Shared badgets
-          *   Up to 5 devices
+          *   Unlimited devices can connect
+          *   Free spare Ivermectin 
         content_align: left
         actions:
           - label: Start with Family
