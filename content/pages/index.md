@@ -123,7 +123,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/app.png
+        image: /images/connect.png
         image_alt: Ivermectin Engineering Connectivity
         media_position: right
         media_width: fifty
