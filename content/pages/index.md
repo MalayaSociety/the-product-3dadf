@@ -1,5 +1,5 @@
 ---
-title: Home
+title: I
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
