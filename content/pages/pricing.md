@@ -93,9 +93,11 @@ sections:
           Our app will support English, Spanish, German and French. Other
           languages are on the roadmap and should be rolled out soon.
       - title: Do you support native iPhone apps?
-        content: |-
-          Absolutely. Both native iOS and Android apps are supported and work
-          seamlessly with App Land.
+        content: >
+          Absolutely. Both native iOS and Android apps are supported and will
+          work
+
+          seamlessly with our Buttplugs.
       - title: Will my tasks be marked as done on their platform?
         content: |-
           As soon as you complete a task, App Land updates your task lists on
