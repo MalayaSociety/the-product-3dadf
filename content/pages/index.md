@@ -111,10 +111,8 @@ sections:
         media_width: fifty
       - title: The most powerful buttplug
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: |
+          Our buttplug
         actions:
           - label: Take a look
             url: /pricing
