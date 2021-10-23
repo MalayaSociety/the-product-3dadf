@@ -1,5 +1,5 @@
 ---
-title: I
+title: IVM-BP
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
