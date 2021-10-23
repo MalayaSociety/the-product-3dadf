@@ -3,10 +3,10 @@ title: IVM-Product
 sections:
   - type: hero_section
     title: The Ivermectin Buttplug
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Made in New Zealand with natural and imported products, our latest
+      buttplug technologies help you with safe orgasmic pleasures. Now with
+      Apple Carplay support.
     actions:
       - label: App Store
         url: /pricing
