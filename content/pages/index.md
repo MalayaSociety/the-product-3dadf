@@ -173,7 +173,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Ivermectin Buttplug
+  title: Ivermectin Engineering
   description: Official webpage of the IVM-Buttplug.
   extra:
     - name: 'og:type'
