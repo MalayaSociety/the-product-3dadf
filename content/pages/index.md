@@ -11,7 +11,7 @@ sections:
       - label: App Store (Coming Soon)
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Google Play (Coming Soon)
         url: /pricing
         style: secondary
     image_alt: Hero section placeholder image
