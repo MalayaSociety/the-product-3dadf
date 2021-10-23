@@ -192,7 +192,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Ivermectin Smart Buttplug
+      value: Ivermectin Engineering
     - name: 'twitter:description'
       value: Buy the IVM-Buttplug soon!
     - name: 'twitter:image'
