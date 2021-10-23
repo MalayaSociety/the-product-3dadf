@@ -196,7 +196,7 @@ seo:
     - name: 'twitter:description'
       value: Buy the Ivermectin Engineering Buttplug soon!
     - name: 'twitter:image'
-      value: /images/product2.png
+      value: /images/product.png
       relativeUrl: true
 layout: advanced
 ---
