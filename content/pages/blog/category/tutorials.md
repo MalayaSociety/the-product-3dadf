@@ -14,9 +14,7 @@ sections:
 
       If the product does not discharge, continue to use it until it does.
 
-
-
-      ## App Controls
+      ### App Controls
 
       Connect via bluetooth and consult our app guide.
   - type: blog_feed_section
