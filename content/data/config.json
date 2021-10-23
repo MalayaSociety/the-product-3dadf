@@ -130,5 +130,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "http://ivermectin.engineering"
+    "domain": "http://ivermectin.engineering",
+    "favicon": "/images/fav.png"
 }
