@@ -105,7 +105,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/product2.png
+        image: /images/feature-1.svg
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
