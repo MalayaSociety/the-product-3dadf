@@ -54,7 +54,7 @@
         "secondary_nav_links": [
             {
                 "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "url": "/blog/category/tutorials/",
                 "style": "link"
             }
         ],
