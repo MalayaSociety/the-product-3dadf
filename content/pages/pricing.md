@@ -21,10 +21,10 @@ sections:
 
           $9 per month, billed yearly
 
-          *   1 Ivermectin Buttplug.
-          *   1 month free premum conectivity.
-          *   Includes support.
-          *   Up to two devices can connect.
+          *   1 Ivermectin Buttplug
+          *   1 month free premum conectivity
+          *   Includes support
+          *   Up to two devices can connect
           *   1 free Ivermectin Cartridge
         content_align: left
         actions:
