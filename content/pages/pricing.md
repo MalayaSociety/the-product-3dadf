@@ -56,18 +56,18 @@ sections:
       - title: Business
         subtitle: For your entire team
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### $999
 
           per month, billed yearly
 
-          * Unlimited calendars
-          * Unlimited task list integrations
-          * Project-based color coding
-          * Scheduled notifications
-          * Task delegation
+          *   Unlimited calendars
+          *   Unlimited task list integrations
+          *   Project-based color coding
+          *   Scheduled notifications
+          *   Task delegation
         content_align: left
         actions:
           - label: Start with Business
