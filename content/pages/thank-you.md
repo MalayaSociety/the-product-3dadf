@@ -5,7 +5,8 @@ sections:
     title: Thank You!
     subtitle: >-
       Thank you for showing your interest. Please keep checking in for updates
-      on our new product. FDA & Medsafe NZ approval pending.
+      on our new product or send us your email below. FDA & Medsafe NZ approval
+      pending.
     actions:
       - label: Back to homepage
         url: /
