@@ -36,7 +36,7 @@ We are a team of productivity nuts that love to get stuff done without the stres
 
 Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Nataya, Designer
+> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Gladys, Designer
 
 With the Ivermectin Buttplug, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
 
