@@ -3,7 +3,7 @@ title: Tutorials
 sections:
   - type: hero_section
     title: Tutorial
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: none
     background_color: none
