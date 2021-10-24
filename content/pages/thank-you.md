@@ -13,7 +13,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
-  - section_id: Signup Form
+  - section_id: Newsletter Form
     title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
