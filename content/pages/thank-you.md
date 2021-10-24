@@ -18,7 +18,7 @@ sections:
     title_align: center
     content: |
       Subscribe to our newsletter to be informed of product updates.
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
