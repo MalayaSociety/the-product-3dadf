@@ -32,7 +32,7 @@ sections:
         default_value: Your email address
         options: []
         is_required: true
-    submit_label: lorem-ipsum
+    submit_label: Subscribe
     align_vert: top
     padding_top: medium
     padding_bottom: medium
