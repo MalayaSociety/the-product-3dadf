@@ -26,13 +26,25 @@ sections:
       Connect via bluetooth and consult our app guide.
 
 
-
-
       ### Cleaning
 
 
       As long as you use our product with Ivermectin cartridges, regular
       cleaning is not needed.
+
+
+      ### Replacement Ivermectin Cartridges
+
+
+      We source the most unadulterated pure forms of Ivermectin from the United
+      States.
+
+
+      There will be a quick release function at the bottom of your product for
+      refills.
+
+
+      Reorder replacement cartridges from the app.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
