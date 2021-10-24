@@ -23,7 +23,7 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: false
-    form_id: lorem-ipsum
+    form_id: subscribeForm
     form_action: lorem-ipsum
     form_fields:
       - input_type: email
