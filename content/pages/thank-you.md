@@ -15,7 +15,7 @@ sections:
     background_color: none
   - section_id: Newsletter Signup
     title: Be Informed
-    title_align: left
+    title_align: right
     content: >-
       ## Lorem ipsum
 
