@@ -7,18 +7,32 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: |
+    content: >
       Insert your Ivermectin Engineering up the anus of the user.
+
 
       Use until Ivermectin is discharged.
 
+
       If the product does not discharge, continue to use it until it does.
+
 
       ![](/images/nice-resize.png)
 
+
       ### App Controls
 
+
       Connect via bluetooth and consult our app guide.
+
+
+
+
+      ### Cleaning
+
+
+      As long as you use our product with Ivermectin cartridges, regular
+      cleaning is not needed.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
