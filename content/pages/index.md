@@ -98,8 +98,8 @@ sections:
       - title: COVID-Safe*
         subtitle: With Nobel-Prize winning Ivermectin
         content: >
-          Keep your anus safe — from now on all needs can come from one place,
-          be safe with Ivermectin.\*
+          Keep your anus safe — from now on all needs can come from one place
+          thanks to Ivermectin.\*
         actions:
           - label: Learn More
             url: /pricing
