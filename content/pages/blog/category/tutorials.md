@@ -33,7 +33,7 @@ sections:
       cleaning is not needed.
 
 
-      ### Replacement Ivermectin Cartridges
+      ### Replacing your Ivermectin Cartridges
 
 
       We source the most unadulterated pure forms of Ivermectin from the United
