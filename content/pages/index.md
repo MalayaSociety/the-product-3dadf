@@ -114,7 +114,7 @@ sections:
       - title: The most powerful buttplug
         subtitle: Always be in control
         content: >
-          Our product uses nano-technologies to target pleasure spots, and
+          Our product uses nano-technologies to target pleasure spots and
           includes Bluetooth and sharable online controls. Schedule your
           orgasms, sync with Google Calendar, control it from your car.
         actions:
