@@ -14,7 +14,7 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: Newsletter Signup
-    title: lorem-ipsum
+    title: Be Informed
     subtitle: lorem-ipsum
     title_align: left
     content: >-
