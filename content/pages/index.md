@@ -134,7 +134,7 @@ sections:
   - type: features_section
     features:
       - title: '“Fantastic app for planning your day, wish I thought of it!'
-        subtitle: 'Elizabeth, Nurse'
+        subtitle: 'Liz, Nurse'
         image: images/person-1.png
         image_alt: Queen Elizabeth
         media_position: right
