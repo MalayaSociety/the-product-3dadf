@@ -14,6 +14,10 @@ sections:
 
       If the product does not discharge, continue to use it until it does.
 
+
+
+      ![](/images/nice.png)
+
       ### App Controls
 
       Connect via bluetooth and consult our app guide.
