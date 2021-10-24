@@ -29,7 +29,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: lorem-ipsum
+        default_value: Your email address
         options: []
         is_required: false
     submit_label: lorem-ipsum
