@@ -14,9 +14,7 @@ sections:
 
       If the product does not discharge, continue to use it until it does.
 
-
-
-      ![](/images/nice.png)
+      ![](/images/nice-resize.png)
 
       ### App Controls
 
