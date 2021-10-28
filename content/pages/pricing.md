@@ -71,7 +71,7 @@ sections:
           *   Priority support
           *   Track your family members
           *   Wholesale Ivermectin refills
-          *   Comes with workout routine
+          *   Comes with a workout routine
         content_align: left
         actions:
           - label: Start with Business
