@@ -34,7 +34,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Personal Plus
-        subtitle: For you and your family members
+        subtitle: For the most discerning customer
         title_align: left
         content: |
           ***
