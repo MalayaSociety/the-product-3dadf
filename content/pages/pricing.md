@@ -43,11 +43,12 @@ sections:
 
           $19 per month, billed yearly
 
-          *   4 Ivermectin Engineering suppositories
+          *   Design your own Ivermectin Engineering suppository
           *   2 months free premium connectivity
           *   Includes support
           *   Unlimited devices can connect
           *   Free spare Ivermectin cartridges
+          *   Comes with a workout routine
         content_align: left
         actions:
           - label: Start with Family
