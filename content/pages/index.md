@@ -2,7 +2,7 @@
 title: Ivermectin Engineering
 sections:
   - type: hero_section
-    title: The Ivermectin Buttplug
+    title: The Ivermectin Suppository Injector
     content: >
       Made in Australia with natural and imported products, our latest buttplug
       technologies help you with safe orgasmic pleasures. Now with Apple Carplay
