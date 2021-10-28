@@ -45,7 +45,7 @@ sections:
 
           *   Design your own Ivermectin Engineering suppository
           *   2 months free premium connectivity
-          *   Includes support
+          *   Priority support
           *   Unlimited devices can connect
           *   Free spare Ivermectin cartridges
           *   Comes with a workout routine
