@@ -57,7 +57,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Family
-        subtitle: For your entire team
+        subtitle: For you and your family members
         title_align: left
         content: |
           ***
