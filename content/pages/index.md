@@ -148,7 +148,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Regain Control of your Buttplug
+    title: Regain Control of your Suppository
     content: >
       Download our Ivermectin-Engineering app soon and connect with all your
       calendars, LinkedIn and contacts — it doesn't get easier than this!
