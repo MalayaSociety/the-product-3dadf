@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: The Ivermectin Suppository Injector
     content: >
-      Made in Australia with natural and imported products, our latest buttplug
-      technologies help you with safe orgasmic pleasures. Now with Apple Carplay
-      support.
+      Made in Australia with natural and imported products, our latest
+      suppository technologies help you with safe orgasmic pleasures. Now with
+      Apple Carplay support.
     actions:
       - label: App Store (Coming Soon)
         url: /pricing
