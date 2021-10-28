@@ -62,15 +62,16 @@ sections:
         content: |
           ***
 
-          ### $999 (starting)
+          ### $899
 
-          $99 per month, billed yearly
+          $89 per month, billed yearly
 
-          *   At least 9 Ivermectin Engineering suppositories
+          *   4 Ivermectin Engineering suppositories
           *   3 months free premium connectivity
           *   Priority support
-          *   Track your employees
+          *   Track your family members
           *   Wholesale Ivermectin refills
+          *   Comes with workout routine
         content_align: left
         actions:
           - label: Start with Business
