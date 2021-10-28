@@ -93,7 +93,7 @@ sections:
     grid_items:
       - title: Can I use multiple languages?
         content: |
-          Our app will support English, Spanish, German and French. Other
+          Our app will support English and Chinese. Other
           languages are on the roadmap and should be rolled out soon.
       - title: Do you support native iPhone apps?
         content: >
