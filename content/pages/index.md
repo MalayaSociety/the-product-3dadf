@@ -32,8 +32,8 @@ sections:
         title_align: left
         content: >
           Using nano-technologies, we are able to ensure maximum pleasure, at
-          all times. We use proprietary injectors to release Ivermectin on your
-          guaranteed orgasms!
+          all times. We use proprietary suppository injectors to release
+          Ivermectin on your guaranteed orgasms!
         content_align: left
         actions:
           - label: Learn More
