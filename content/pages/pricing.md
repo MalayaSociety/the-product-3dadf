@@ -21,7 +21,7 @@ sections:
 
           $9 per month, billed yearly
 
-          *   1 Ivermectin Engineering Buttplug
+          *   1 Ivermectin Engineering suppository
           *   1 month free premum conectivity
           *   Includes support
           *   Up to two devices can connect
