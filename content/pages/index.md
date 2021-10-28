@@ -51,7 +51,7 @@ sections:
       - title: On Any Device
         title_align: left
         content: >
-          The Ivermectin Engineering Suppository synchonises across Android and
+          The Ivermectin Engineering suppository synchronises across Android and
           iOS phones, and on your computer, tablet, or even your car!
         content_align: left
         actions:
