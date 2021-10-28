@@ -111,7 +111,7 @@ sections:
         image_alt: Keeping you safe*
         media_position: left
         media_width: fifty
-      - title: The most powerful buttplug
+      - title: The most powerful suppository
         subtitle: Always be in control
         content: >
           Our product uses nano-technologies to target pleasure spots and
