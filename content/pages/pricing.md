@@ -109,7 +109,7 @@ sections:
         content: >
           We're very confident in our products, but if you are unhappy with
           them, you can contact support with your concerns.
-      - title: Which integrations do you have?
+      - title: Do you sell cartridge refills?
         content: >
           Yes! You can order more Ivermectin cartridges from our app or through
           support.
