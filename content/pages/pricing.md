@@ -71,6 +71,7 @@ sections:
           *   Priority support
           *   Track your family members
           *   Wholesale Ivermectin refills
+          *   Unlimited devices can connect
           *   Comes with a workout routine
         content_align: left
         actions:
