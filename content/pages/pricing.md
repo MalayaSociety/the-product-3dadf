@@ -111,10 +111,8 @@ sections:
           them, you can contact support with your concerns.
       - title: Which integrations do you have?
         content: >
-          We work with all major productivity apps and professional platforms
-          and support all
-
-          native iOS and Android apps.
+          Yes! You can order more Ivermectin cartridges from our app or through
+          support.
       - title: What is your cancellation policy?
         content: |
           You can cancel anytime and use our product offline.
