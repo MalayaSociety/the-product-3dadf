@@ -39,7 +39,7 @@ sections:
         content: |
           ***
 
-          ### $399
+          ### $299
 
           $19 per month, billed yearly
 
