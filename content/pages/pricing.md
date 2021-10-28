@@ -100,7 +100,7 @@ sections:
           Absolutely. Both native iOS and Android apps are supported and will
           work
 
-          seamlessly with our Buttplugs.
+          seamlessly with our suppositories.
       - title: Will this cure COVID?
         content: >
           This may cure COVID, though we have not done the research for this
